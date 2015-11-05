@@ -1,0 +1,14 @@
+{
+  "name": "jsonresume-theme-student-onepage",
+  "version": "0.0.1",
+  "description": "Single page student theme for JSON Resume",
+  "author": "Justin Maslin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmaslin/jsonresume-theme-student-onepage"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "^2.0.0-alpha.4"
+  }
+}
